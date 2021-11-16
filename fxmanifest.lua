@@ -1,7 +1,7 @@
 fx_version "adamant"
 
 game "gta5"
-author "merty - megvalatzson"
+author "merty - Muhammed Mert Kabaca"
 
 client_scripts {
     "client.lua",
