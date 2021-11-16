@@ -1,4 +1,4 @@
--- Merty | megva
+-- Merty 
 
 local PlayerData                = {}
 ESX                             = nil
